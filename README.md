@@ -1,4 +1,2 @@
 # Markdown test
-Here is a cool link: [Google][google link]
-
-[google link]: www.google.com
+Here is a cool link: [Google](www.google.com)
